@@ -1712,6 +1712,7 @@ SpriteAtlas:
   - {fileID: 21300006, guid: b72f46212c197e949b92577a9e3b1168, type: 3}
   - {fileID: 21300000, guid: b72f46212c197e949b92577a9e3b1168, type: 3}
   - {fileID: 21300002, guid: b72f46212c197e949b92577a9e3b1168, type: 3}
+  - {fileID: 21300000, guid: ca42a62169bf6fd4e83c91253c44cdcc, type: 3}
   - {fileID: 21300000, guid: 7c73c6213a5ed0543b804ac973ebc07e, type: 3}
   - {fileID: 21300000, guid: 8dbf1721dcf6c1441870090756b57fb2, type: 3}
   - {fileID: 21300002, guid: 8dbf1721dcf6c1441870090756b57fb2, type: 3}
@@ -20555,6 +20556,7 @@ SpriteAtlas:
   - dorm_taken_3
   - dorm_taken_0
   - dorm_taken_1
+  - chairs_Chair buckles
   - growing_ambrosiavulgaris-grow6
   - diagonal_crossing_0
   - diagonal_crossing_1

@@ -11,7 +11,7 @@ public class Edible : NetworkBehaviour, IClientInteractable<HandActivate>, IClie
 	public GameObject leavings;
 	protected bool isDrink = false;
 
-	public int NutrientsHealAmount = 25;
+	public int nutritionLevel = 5;
 
 	private void Awake()
 	{
